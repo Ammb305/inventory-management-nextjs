@@ -10,7 +10,7 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = "postgresql://postgres:admin@localhost:5432/inventory-management?schema=public"
+  url = "postgresql://postgres:admin123@rds-inventory-management.c5g22ewq4ztf.us-east-1.rds.amazonaws.com:5432/rdsinventorymanagementinitial?schema=public"
 }
 
 model Users {
