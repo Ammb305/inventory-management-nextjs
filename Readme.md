@@ -28,7 +28,7 @@ This project is an **Inventory management system** designed to handle both patie
 ### Getting Started
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Ammb/inventory-management-nextjs.git
+    git clone https://github.com/Ammb305/inventory-management-nextjs.git
     ```
 2. **Install dependencies**:
     ```bash
