@@ -1,7 +1,7 @@
 # Inventory Management System
 
 ## Overview
-This project is an **Inventory management system** designed to handle both patient appointments and doctor dashboards. It consists of a frontend, backend, and database, all deployed using **AWS services** for scalability, security, and ease of management.
+This project is an **Inventory management system** designed to handle inventory systems. It consists of a frontend, backend, and database, all deployed using **AWS services** for scalability, security, and ease of management.
 
 ### Architecture Overview
 - **Frontend**: Built using **Next.js** and deployed with **AWS Amplify**, ensuring fast, scalable, and secure user interactions.
